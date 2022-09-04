@@ -330,7 +330,10 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "Samtec",
+      "FMC"
+    ]
   },
   "meta": {
     "filename": "OpenFMC.kicad_pro",

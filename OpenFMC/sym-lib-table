@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "FMC")(type "KiCad")(uri "${KIPRJMOD}/FMC.kicad_sym")(options "")(descr ""))
+  (lib (name "Samtec")(type "KiCad")(uri "${KIPRJMOD}/Samtec.kicad_sym")(options "")(descr ""))
 )
