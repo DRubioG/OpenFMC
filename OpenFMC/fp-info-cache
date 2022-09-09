@@ -1,11 +1,11 @@
-4977169443226
+14960939522684
 FMC
 FMC+
 
 
 0
-400
-400
+560
+560
 FMC
 FMC_HPC
 
@@ -20,3 +20,45 @@ FMC_LPC
 0
 160
 160
+Samtec
+ASP-134486-01 
+FMC HPC connector, 8.5 mm Mated, Lead-Free
+FPGA Mezzanine Card FMC HPC Terminal Connector Header
+0
+400
+400
+Samtec
+ASP-134486-02
+FMC HPC connector, 8.5 mm Mated, Lead-Free
+FPGA Mezzanine Card FMC HPC Terminal Connector Header
+0
+400
+400
+Samtec
+ASP-134488-01
+FMC HPC connector, 10 mm Mated, Lead-Free
+FPGA Mezzanine Card FMC HPC Terminal Connector Header
+0
+400
+400
+Samtec
+ASP-134488-02 
+FMC HPC connector, 10 mm Mated, Lead-Free
+FPGA Mezzanine Card FMC HPC Terminal Connector Header
+0
+400
+400
+Samtec
+ASP-134602-01
+FMC HPC connector, 8.5 mm Mated, Lead-Free
+FPGA Mezzanine Card FMC HPC Terminal Connector Header
+0
+400
+400
+Samtec
+ASP-134602-02
+FMC HPC connector, 8.5 mm Mated, Lead-Free
+FPGA Mezzanine Card FMC HPC Terminal Connector Header
+0
+400
+400
