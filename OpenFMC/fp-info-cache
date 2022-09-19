@@ -1,4 +1,4 @@
-14960939522684
+29942244329228
 FMC
 FMC+
 
@@ -15,50 +15,113 @@ FMC_HPC
 400
 FMC
 FMC_LPC
-
-
+FMC LPC connector, Socket, Lead-Free
+FPGA Mezzanine Card FMC LPC Terminal Connector Header
 0
 160
 160
+FMC
+FMC_LPC_2
+FMC LPC connector, 8.5mm Mated, Lead-Free
+FPGA Mezzanine Card FMC LPC Terminal Connector Header
+0
+160
+160
+FMC
+ejemplo_HPC_1
+FMC HPC connector, Socket, Lead-Free
+FPGA Mezzanine Card FMC HPC Terminal Connector Header
+0
+400
+400
+FMC
+ejemplo_HPC_2
+FMC HPC connector, Socket, Lead-Free
+FPGA Mezzanine Card FMC HPC Terminal Connector Header
+0
+400
+400
 Samtec
-ASP-134486-01 
-FMC HPC connector, 8.5 mm Mated, Lead-Free
+ASP-134486-01
+FMC HPC connector, Socket, Lead-Free
 FPGA Mezzanine Card FMC HPC Terminal Connector Header
 0
 400
 400
 Samtec
 ASP-134486-02
-FMC HPC connector, 8.5 mm Mated, Lead-Free
+FMC HPC connector, Socket, Tin-Lead
 FPGA Mezzanine Card FMC HPC Terminal Connector Header
 0
 400
 400
 Samtec
 ASP-134488-01
-FMC HPC connector, 10 mm Mated, Lead-Free
+FMC HPC connector, 10mm Mated, Lead-Free
 FPGA Mezzanine Card FMC HPC Terminal Connector Header
 0
 400
 400
 Samtec
-ASP-134488-02 
-FMC HPC connector, 10 mm Mated, Lead-Free
+ASP-134488-02
+FMC HPC connector, 10 mm Mated, Tin-Lead
 FPGA Mezzanine Card FMC HPC Terminal Connector Header
 0
 400
 400
 Samtec
 ASP-134602-01
-FMC HPC connector, 8.5 mm Mated, Lead-Free
+FMC HPC connector, 8.5mm Mated, Lead-Free
 FPGA Mezzanine Card FMC HPC Terminal Connector Header
 0
 400
 400
 Samtec
 ASP-134602-02
-FMC HPC connector, 8.5 mm Mated, Lead-Free
+FMC HPC connector, 8.5mm Mated, Tin-Lead
 FPGA Mezzanine Card FMC HPC Terminal Connector Header
 0
 400
 400
+Samtec
+ASP-134603-01
+FMC LPC connector, Socket, Lead-Free
+FPGA Mezzanine Card FMC LPC Terminal Connector Header
+0
+160
+160
+Samtec
+ASP-134603-04
+FMC LPC connector, Socket, Tin-Lead
+FPGA Mezzanine Card FMC LPC Terminal Connector Header
+0
+160
+160
+Samtec
+ASP-134604-01
+FMC LPC connector, 10mm Mated, Lead-Free
+FPGA Mezzanine Card FMC LPC Terminal Connector Header
+0
+160
+160
+Samtec
+ASP-134604-04
+FMC LPC connector, 10mm Mated, Tin-Lead
+FPGA Mezzanine Card FMC LPC Terminal Connector Header
+0
+160
+160
+Samtec
+ASP-134606-01
+FMC LPC connector, 8.5mm Mated, Lead-Free
+FPGA Mezzanine Card FMC LPC Terminal Connector Header
+0
+160
+160
+Samtec
+ASP-134606-02
+FMC LPC connector, 8.5mm Mated, Tin-Lead
+FPGA Mezzanine Card FMC LPC Terminal Connector Header
+0
+160
+160

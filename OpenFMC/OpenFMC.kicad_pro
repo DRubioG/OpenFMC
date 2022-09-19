@@ -331,8 +331,8 @@
   "libraries": {
     "pinned_footprint_libs": [],
     "pinned_symbol_libs": [
-      "Samtec",
-      "FMC"
+      "FMC",
+      "Samtec"
     ]
   },
   "meta": {
